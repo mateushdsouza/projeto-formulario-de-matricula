@@ -1,0 +1,15 @@
+{
+  "editor.inlineSuggest.enabled": false,
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": false
+  },
+  "editor.suggest.showKeywords": true,
+  "editor.suggest.showSnippets": true,
+  "editor.suggest.showWords": true,
+  "editor.suggest.showIcons": true,
+  "editor.acceptSuggestionOnEnter": "on",
+  "editor.tabCompletion": "on",
+  "editor.wordBasedSuggestions": "currentDocument"
+}
