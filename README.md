@@ -1,12 +1,19 @@
 # Estrelas do Amanhã — Matrícula
 
+## Acessar no navegador
+
+**[Abrir o projeto](https://mateushdsouza.github.io/projeto-formulario-de-matricula/)**
+
+Não é necessário clonar o repositório, instalar ferramentas ou baixar arquivos para visualizar a versão publicada.
+
+
 Interface de formulário de matrícula escolar, com dados da criança, endereço, responsável e opções de matrícula.
 
 ## Tecnologias
 
 HTML e CSS.
 
-## Como visualizar
+## Desenvolvimento local (opcional)
 
 ```sh
 git clone https://github.com/mateushdsouza/projeto-formulario-de-matricula.git
